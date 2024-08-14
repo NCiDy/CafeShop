@@ -1,0 +1,38 @@
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\bin\Debug\QuanLyCafe_FormNew.exe.config
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\bin\Debug\QuanLyCafe_FormNew.exe
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\bin\Debug\QuanLyCafe_FormNew.pdb
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.Properties.Resources.resources
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.csproj.CopyComplete
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.exe
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.pdb
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.Login.resources
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.QuanLyQuanCafe.resources
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.All_User_Controlls.QuanLyChung.resources
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.All_User_Controlls.TaiKhoan.resources
+C:\Users\ASUS\source\repos\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.All_User_Controlls.Admin.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\bin\Debug\QuanLyCafe_FormNew.exe.config
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\bin\Debug\QuanLyCafe_FormNew.exe
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\bin\Debug\QuanLyCafe_FormNew.pdb
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\bin\Debug\Guna.UI2.dll
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.csproj.AssemblyReference.cache
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.All_User_Controlls.Admin.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.All_User_Controlls.QuanLyChung.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.All_User_Controlls.TaiKhoan.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.Login.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.Properties.Resources.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.QuanLyQuanCafe.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.csproj.GenerateResource.cache
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.csproj.CoreCompileInputs.cache
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.csproj.CopyComplete
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.exe
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.pdb
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.ThanhToan.MBBank.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.ThanhToan.VCB.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.NganHangIcons.PTMomo.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.PTThanhToan.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.ThanhToan.TPBank.resources
+E:\Bài tập\Kỳ 5\dotNet\QuanLyCafe_FormNew\QuanLyCafe_FormNew\obj\Debug\QuanLyCafe_FormNew.All_User_Controlls.QlyChung.resources
